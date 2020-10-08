@@ -1,0 +1,36 @@
+{
+	"title": "Default Form",
+	"engineId": "alpaca1",
+	"fields": {
+		"title": {
+			"type": "text",
+			"label": "Name",
+			"order": 1
+		},
+		"date": {
+			"type": "date",
+			"title": "Post Date",
+			"helper": "The date that will display with the content",
+			"order": 2,
+			"validate": true,
+			"showMessages": true
+		},
+		"content": {
+			"type": "markdown",
+			"markdown": {
+				"toolbar": [
+					"preview",
+					"|",
+					"bold",
+					"italic"
+				]
+			}
+		}
+	},
+	"_form_key": "default",
+	"__formKey": "default",
+	"_doc": "13dae7e5a845557c63cf",
+	"_qname": "o:13dae7e5a845557c63cfdefault",
+	"_type": "n:form",
+	"_source_doc": "13dae7e5a845557c63cf"
+}

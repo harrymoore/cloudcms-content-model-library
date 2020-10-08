@@ -1,0 +1,36 @@
+{
+	"title": "link",
+	"type": "object",
+	"properties": {
+		"title": {
+			"type": "string",
+			"title": "Title"
+		},
+		"perview": {
+			"$ref": "qname://custom/reference1#/definitions/link"
+		}
+	},
+	"_parent": "n:node",
+	"description": "custom:link",
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"definitions": {
+		"link": {
+			"type": "object",
+			"title": "link",
+			"description": "link",
+			"properties": {
+				"url": {
+					"title": "Url",
+					"type": "string"
+				},
+				"ratget": {
+					"$ref": "qname://custom/reference1#/definitions/link-target"
+				}
+			}
+		}
+	},
+	"_doc": "39bff04c405d61460f05",
+	"_qname": "custom:reference2",
+	"_type": "d:type",
+	"_source_doc": "39bff04c405d61460f05"
+}

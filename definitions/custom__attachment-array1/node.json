@@ -1,0 +1,23 @@
+{
+	"title": "Attachment Array",
+	"type": "object",
+	"properties": {
+		"files": {
+			"title": "Files",
+			"type": "array",
+			"items": {
+				"type": "object"
+			},
+			"_attachment": {
+				"id": "default"
+			}
+		}
+	},
+	"_parent": "n:node",
+	"description": "demo _attachment property",
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"_doc": "6d76217ecb2684301952",
+	"_qname": "custom:attachment-array1",
+	"_type": "d:type",
+	"_source_doc": "6d76217ecb2684301952"
+}

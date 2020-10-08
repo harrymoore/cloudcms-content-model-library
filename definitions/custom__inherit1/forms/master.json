@@ -1,0 +1,22 @@
+{
+	"title": "inherit1",
+	"engineId": "alpaca1",
+	"fields": {
+		"title": {
+			"type": "text",
+			"label": "Title",
+			"required": true
+		},
+		"prop1": {
+			"type": "text",
+			"label": "prop1",
+			"required": true
+		}
+	},
+	"description": "",
+	"__formKey": "master",
+	"_doc": "6d89eabe7254918b4296",
+	"_qname": "o:6d89eabe7254918b4296master",
+	"_type": "n:form",
+	"_source_doc": "6d89eabe7254918b4296"
+}

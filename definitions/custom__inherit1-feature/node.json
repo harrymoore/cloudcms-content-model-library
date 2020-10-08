@@ -1,0 +1,16 @@
+{
+	"title": "inherit1-feature",
+	"description": "",
+	"type": "object",
+	"properties": {
+		"prop1": {
+			"type": "string",
+			"title": "prop1",
+			"required": true
+		}
+	},
+	"_doc": "e616b33c3410915fd577",
+	"_qname": "custom:inherit1-feature",
+	"_type": "d:feature",
+	"_source_doc": "e616b33c3410915fd577"
+}

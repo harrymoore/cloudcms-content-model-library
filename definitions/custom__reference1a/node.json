@@ -1,0 +1,15 @@
+{
+	"title": "reference1a",
+	"type": "object",
+	"properties": {
+		"testFromReference1a": {
+			"type": "string"
+		}
+	},
+	"description": "custom:reference1a",
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"_doc": "a7c86e833bcf062e219b",
+	"_qname": "custom:reference1a",
+	"_type": "d:feature",
+	"_source_doc": "a7c86e833bcf062e219b"
+}
