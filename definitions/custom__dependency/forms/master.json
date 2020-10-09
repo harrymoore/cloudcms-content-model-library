@@ -63,10 +63,10 @@
 						"type": "text",
 						"label": "Text",
 						"required": true,
-						"default": ""
-					},
-					"dependencies": {
-						"sectionType": "text"
+						"default": "",
+						"dependencies": {
+							"sectionType": "text"
+						}
 					},
 					"image": {
 						"type": "related-content",
@@ -74,10 +74,11 @@
 						"required": false,
 						"uploadPath": "/images",
 						"maxNumberOfFiles": 1,
-						"fileTypes": "(\\.|/)(gif|jpe?g|png|svg)$"
-					},
-					"dependencies": {
-						"sectionType": "image"
+						"fileTypes": "(\\.|/)(gif|jpe?g|png|svg)$",
+						"default": "",
+						"dependencies": {
+							"sectionType": "text"
+						}
 					}
 				}
 			},
