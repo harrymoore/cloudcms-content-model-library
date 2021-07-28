@@ -23,9 +23,5 @@
 		}
 	},
 	"_form_key": "default",
-	"__formKey": "default",
-	"_doc": "f2600a7ee8c543a3556e",
-	"_qname": "o:f2600a7ee8c543a3556edefault",
-	"_type": "n:form",
-	"_source_doc": "f2600a7ee8c543a3556e"
+	"_type": "n:form"
 }

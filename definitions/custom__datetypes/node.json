@@ -17,8 +17,6 @@
 	"_parent": "n:node",
 	"description": "custom:datetypes",
 	"$schema": "http://json-schema.org/draft-04/schema#",
-	"_doc": "8c8f0a03325a1648db4d",
 	"_qname": "custom:datetypes",
-	"_type": "d:type",
-	"_source_doc": "8c8f0a03325a1648db4d"
+	"_type": "d:type"
 }
